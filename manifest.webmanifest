@@ -1,0 +1,19 @@
+{
+  "name": "Sourdough Batch Planner",
+  "short_name": "Sourdough",
+  "description": "Scale sourdough formulas, calculate Celsius strike water, and plan a bake timeline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf6ec",
+  "theme_color": "#5b3927",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

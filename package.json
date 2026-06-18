@@ -1,0 +1,10 @@
+{
+  "name": "sourdough-batch-planner",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile-first sourdough formula scaler and bake planner.",
+  "scripts": {
+    "test": "node --test tests/*.test.js && node scripts/validate-static.js",
+    "validate": "node scripts/validate-static.js"
+  }
+}
