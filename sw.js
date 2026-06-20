@@ -1,4 +1,4 @@
-const CACHE_NAME = "sourdough-planner-v1";
+const CACHE_NAME = "sourdough-planner-v3";
 const APP_SHELL = [
   "./",
   "index.html",

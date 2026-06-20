@@ -9,9 +9,10 @@ A mobile-first, Celsius-only sourdough planner for iPhone and desktop browsers.
 - Pain au Levain defaults to the user's adjusted 370 g final dough water for two loaves; the source formula uses 400 g.
 - Editable Pain au Levain water, hydration estimate, and approximate final dough weight.
 - Pain au Levain classic, olive, rosemary, and roasted onion variations.
-- Start-time and bake-time schedules with late-night warnings.
-- Manual step-time adjustment that shifts downstream steps.
-- Saved step completion and settings using browser local storage.
+- Start-time and bake-time schedules used as optional guidance.
+- Independent actual start and finish logging for every process.
+- Finishing a process prepares the next process start without forcing the remaining schedule to move.
+- Saved process times and settings using browser local storage.
 - Offline use after the first successful load.
 - Print and copy-friendly ingredient preparation list.
 
